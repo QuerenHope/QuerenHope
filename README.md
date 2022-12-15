@@ -1,13 +1,15 @@
 <div>
-<img align="left" alt="QuerenHope" height="150" style="width: 100vmax; " src="queren.gif">
+<img align="left" alt="QuerenHope" height="190" style="width: 100vmax;border-radius: 25px; " src="queren.gif">
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F3F4F5&center=true&vCenter=true&width=400&lines=Dev+FrontEnd+Junior)
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F3F4F5&center=true&vCenter=true&width=400&lines=Dev+FrontEnd+Junior)
 
 <img align="left" alt="QuerenHope" height="250" style="border-radius:100%; display:flex; " src="avatar.png">
 
 
 
+***************
+***************
 
 
 <div>
@@ -17,8 +19,11 @@
 - Um pézinho maior no Front End <br>
 - Amo contato com a natureza  <br>
 - Atualmente estudando mais e mais em cursos <br>
+- A tecnologia é o nosso futuro!!! <br>
+  
 </div>
   
+***************
 ***************
 
 <div align="center">
@@ -67,6 +72,8 @@
 
 
 ***************
+  
+ 
 
 <h2 align="center">Entre em contato:</h2>
 <p align="center">
