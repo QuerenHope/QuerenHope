@@ -1,25 +1,29 @@
-<div>
-<img align="left" alt="QuerenHope" height="190" style="width: 100vmax;border-radius: 25px; " src="header.gif">
-</div>
 
- ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F3F4F5&center=true&vCenter=true&width=400&lines=Dev+FrontEnd+Junior)
+<img align="center" alt="QuerenHope" height="190" style="width: 100vmax;border-radius: 25px; " src="header.gif">
+
+
+<div style="margin-top: 2rem;" >
+<h1 align="center" >Sobre mim...</h1>
+</div>
 
 <img align="left" alt="QuerenHope" height="250" style="border-radius:100%; display:flex; " src="avatar.png">
 
 
 
-***************
-***************
 
 
-<div>
+
+<div style="display:flex; margin-top: 5rem;">
 - Me chamo Queren ✌ <br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Formada Desenvolvedora FullStack pela Kenzie Academy Brasil <br>
 - Um pézinho maior no Front End <br>
 - Amo contato com a natureza  <br>
 - Atualmente estudando mais e mais em cursos <br>
+- Responsabilidade com a minha empresa <br>
+- Sou uma pessoa calma <br>
 - A tecnologia é o nosso futuro!!! <br>
+
   
 </div>
   
