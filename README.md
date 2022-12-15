@@ -1,5 +1,5 @@
 <div>
-<img align="left" alt="QuerenHope" height="190" style="width: 100vmax;border-radius: 25px; " src="queren.gif">
+<img align="left" alt="QuerenHope" height="190" style="width: 100vmax;border-radius: 25px; " src="header.gif">
 </div>
 
  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F3F4F5&center=true&vCenter=true&width=400&lines=Dev+FrontEnd+Junior)
