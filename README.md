@@ -40,31 +40,31 @@
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Front End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/> 
+    <img height="40" width="40" title="CSS" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
+    <img height="40" width="40" title="HTML" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
+    <img height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
+    <img height="40" width="40" title="React" src="https://cdn.simpleicons.org/react/1C6B94"/> 
            
   </p>
   
   <h3 align="center">Back End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/express/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/>  
-    <img height="40" width="40" src="https://cdn.simpleicons.org/python/1C6B94"/>           
+    <img height="40" width="40" title="Node.js" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
+    <img height="40" width="40" title="Express" src="https://cdn.simpleicons.org/express/1C6B94"/>
+    <img height="40" width="40" title="Typescript" src="https://cdn.simpleicons.org/typescript/1C6B94"/>  
+    <img height="40" width="40" title="Python" src="https://cdn.simpleicons.org/python/1C6B94"/>           
   </p>
   
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/sqlite/1C6B94"/>
+    <img height="40" width="40" title="postgresql" src="https://cdn.simpleicons.org/postgresql/1C6B94"/>
+    <img height="40" width="40" title="Sqlite" src="https://cdn.simpleicons.org/sqlite/1C6B94"/>
   </p>
   
   <h3 align="center">DevOps</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/docker/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/1C6B94"/>        
+    <img height="40" width="40" title="Docker" src="https://cdn.simpleicons.org/docker/1C6B94"/>
+    <img height="40" width="40" title="AmazonAWS" src="https://cdn.simpleicons.org/amazonaws/1C6B94"/>        
   </p>
   
   <h3 align="center">Ferramentas</h3>
