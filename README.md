@@ -15,8 +15,8 @@
 
 <div style="display:flex; margin-top: 5rem;">
 - Me chamo Queren ✌ <br>
-- Me aperfeiçoando cada dia um pouco mais com a programação <br>
-- Formada Desenvolvedora FullStack pela Kenzie Academy Brasil <br>
+- Me aperfeiçoando cada dia mais com a programação <br>
+- Formada como Desenvolvedora FullStack pela Kenzie Academy Brasil <br>
 - Um pézinho maior no Front End <br>
 - Amo contato com a natureza  <br>
 - Atualmente estudando mais e mais em cursos <br>
